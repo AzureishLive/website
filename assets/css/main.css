@@ -318,9 +318,9 @@ sup {
     height: auto;
 }
 
-.responsive-img {
-    width: 100%;
-    height: auto;
+.responsive-logo {
+    width: auto;
+    height: 251px;
 }
 
 @media only screen and (min-width:550px) {
