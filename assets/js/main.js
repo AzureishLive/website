@@ -50,7 +50,7 @@ document.addEventListener("DOMContentLoaded", function () {
             line_linked: {
                 enable: !0,
                 distance: 150,
-                color: "#ffffff",
+                color: "#ff3864",
                 opacity: .4,
                 width: 1
             },
